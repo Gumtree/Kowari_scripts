@@ -33,11 +33,7 @@ axis_name.title = 'Select Axis'
 axis_lock = Par('bool', False, command = 'lock_axis()')
 axis_lock.title = 'Lock Axis'
 auto_fit = Par('bool', False)
-pause = Par('bool', not __newfile_enabled__, command = 'set_newfile_enabled()')
-def set_newfile_enabled():
-    global __newfile_enabled__
-    __newfile_enabled__ = not pause.value
-g1.add(data_name, axis_name, axis_lock, normalise, auto_fit, pause)
+g1.add(data_name, axis_name, axis_lock, normalise, auto_fit)
 
 fit_min = Par('float', 'NaN')
 fit_max = Par('float', 'NaN')
