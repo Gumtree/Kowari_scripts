@@ -33,7 +33,7 @@ def scan_device():
                     + ' ' + str(number_of_points.value) + ' ' + str(scan_mode.value) + ' ' + str(scan_preset.value))
     sicsext.runscan(device_name.value, scan_start.value, scan_stop.value, number_of_points.value, 
                     scan_mode.value, scan_preset.value, load_experiment_data, True, \
-                    'HISTOGRAM_XY')
+                    'HISTOGRAM_T')
     time.sleep(2)
     peak_pos.value = float('NaN')
     FWHM.value = float('NaN')
@@ -48,7 +48,7 @@ def update_axis_name():
 G1.add(device_name, scan_start, scan_stop, number_of_points, scan_mode, scan_preset, act1)
 
 G2 = Group('Fitting')
-data_name = Par('string', 'bm2_counts', \
+data_name = Par('string', 'total_counts', \
                options = ['total_counts', 'bm1_counts', 'bm2_counts'])
 normalise = Par('bool', True)
 axis_name = Par('string', '')
