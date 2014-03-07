@@ -87,7 +87,7 @@ def geo_corr(ds):
                         relocateRightIndexArray.__iArray__, relocateLeftRateArray.__iArray__, \
                         relocateRightRateArray.__iArray__, relocateCounterArray.__iArray__, \
                         i == 0)
-        r2.axes[2]=axis_2theta
+        res.axes[2] = axis_2theta
         res.copy_metadata_shallow(ds)
         res.append_log('geometry curve correction')
     else:
@@ -96,3 +96,6 @@ def geo_corr(ds):
 
 def v_intg(ds):
     return ds.intg(1)
+
+def i_intg(ds):
+    return ds.sum(0)

@@ -1,98 +1,126 @@
+from Internal import lib
 import math
-from gumpy.nexus import array, dataset
-from au.gov.ansto.bragg.datastructures.util import AxisRecord
-from au.gov.ansto.bragg.kowari.dra.core import GeometryCorrection
-SKIP_LEFT = 5
-SKIP_RIGHT = 5
-SKIP_TOP = 5
-SKIP_BOTTOM = 5
-LOWER_LIM = 0.1
-DEGREE_RAD_COEFFICIENT = 180 / math.pi
-DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE = 1078.0
 
-def make_eff_map(df, path):
-    global SKIP_LEFT
-    global SKIP_RIGHT
-    global SKIP_TOP
-    global SKIP_BOTTOM
-    global LOWER_LIM
-    
-    map = df[path]
-    if map.ndim == 4:
-        map = map[0,0]
-    elif map.ndim == 3:
-        map = map[0]
-    
-    map = map.float_copy()
-    map[0:SKIP_LEFT, :] = 1
-    shape = map.shape
-    map[shape[0] - SKIP_RIGHT : shape[0], :] = 1
-    map[SKIP_LEFT : shape[0] - SKIP_RIGHT, 0 : SKIP_BOTTOM] = 1
-    map[SKIP_LEFT : shape[0] - SKIP_RIGHT, shape[1] - SKIP_TOP : shape[1]] = 1
+# Script control setup area
+# script info
+__script__.title = 'Kowari Reduction'
+__script__.version = '1.0'
 
-    ctr = map[SKIP_LEFT:shape[0] - SKIP_RIGHT, SKIP_BOTTOM:shape[1] - SKIP_TOP]
-    avg = ctr.sum() / ctr.size
-    ctr /= avg
-    ctr[ctr < LOWER_LIM] = 1
-    return map
-    
-    
-def eff_corr(ds, map):
-    for fm in ds:
-        fm /= map
+# Use below example to create parameters.
+# The type can be string, int, float, bool, file.
 
-def geo_corr(ds):
-    sdds = DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE ** 2
-    try:
-        sdds = ds.sample_to_detector_distance ** 2
-    except:
-        pass
-    stth = ds.stth
-    if not hasattr(stth, '__len__') :
-        stth = [stth]
-    is_fixed_stth = True
-    if math.fabs(stth[0] - stth[-1]) > 1e-3:
-        is_fixed_stth = False
+DS = None
+VI = None
+IR = None
+
+ind_jump = Par('int', -1, options = [], command = 'jump_to_index()')
+ind_jump.title = 'select to show data at index'
+var_jump = Par('float', float('NAN'), [], command = 'jump_to_var()')
+var_jump.title = 'select to show data with scan variable at '
+g_jump = Group('Jump to Scan Index')
+g_jump.add(ind_jump, var_jump)
+
+def jump_to_var():
+    var = var_jump.value
+    log('jump to scan variable = ' + str(var))
+    if math.isnan(var) :
+        return
+    idx = var_jump.options.index(var)
+    ind_jump.value = idx
     
-    currentStth = stth[0] / DEGREE_RAD_COEFFICIENT
-    sinStth = math.sin(currentStth)
-    cosStth = math.cos(currentStth)
+def jump_to_index():
+    idx = ind_jump.value
+    log('jump to index ' + str(idx))
+    if idx < 0 or DS == None or idx >= len(DS):
+        return
+    Plot1.set_dataset(DS[idx])
+    Plot2.set_dataset(VI[idx])
+    if var_jump.value != var_jump.options[idx]:
+        var_jump.value = var_jump.options[idx]
+
+eff_corr_enabled = Par('bool', True)
+eff_corr_enabled.title = 'efficiency correction enabled'
+eff_map = Par('file', '')
+eff_map.title = 'efficiency map file'
+g_eff = Group('Efficiency Correction')
+g_eff.add(eff_corr_enabled, eff_map)
+
+geo_corr_enabled = Par('bool', True)
+geo_corr_enabled.title = 'geometry correction enabled'
+g_geo = Group('Geometry Correction')
+g_geo.add(geo_corr_enabled)
+
+reg_enabled = Par('bool', True)
+reg_enabled.title = 'region selection enabled'
+g_reg = Group('Region Selection')
+g_reg.add(reg_enabled)
+
+# Use below example to create a button
+act1 = Act('reduce()', 'Reduce Selected Data') 
+def reduce():
+    global DS
+    global VI
+    global IR
+    df.datasets.clear()
+    li = __DATASOURCE__.getSelectedDatasets()
+    if len(li) == 0:
+        open_error('Please select a file from the file source view.')
+        return
+    DS = df[str(li[0].location)]
+    location = DS.location
+    id = DS.id
+    title = DS.title
+    DS = DS.get_reduced(1)
+    Plot1.set_dataset(DS[0])
     
-    y_len = ds.axes[-2].size - 1
-    x_len = ds.axes[-1].size - 1
-    d_shape = [y_len, x_len]
-    pixel_2theta = array.instance([y_len, x_len + 1], dtype = float)
-    
-    if is_fixed_stth :
-        res = dataset.instance(ds.shape, dtype = float)
+    if eff_corr_enabled.value and eff_map.value != None \
+            and len(eff_map.value.strip()) > 0:
+        log('efficiency correction')
+        map = lib.make_eff_map(df, str(eff_map.value))
+        lib.eff_corr(DS, map)
         
-        y_bounds = ds.axes[-2].__iArray__
-        y_centres = AxisRecord.createCentres(y_bounds)
-        x_bounds = ds.axes[-1].__iArray__
-        GeometryCorrection.calculateTwoThetaPixel(sdds, x_bounds, cosStth, sinStth, \
-                                             y_centres, pixel_2theta.__iArray__)
-        axis_2theta = array.instance([x_len + 1], dtype = float)
-        GeometryCorrection.calculateTwoThetaAxis(sdds, x_bounds, cosStth, \
-                                             sinStth, axis_2theta.__iArray__)
-        relocateLeftIndexArray = array.instance(d_shape, dtype = int)
-        relocateRightIndexArray = array.instance(d_shape, dtype = int)
-        relocateLeftRateArray = array.instance(d_shape, dtype = float)
-        relocateRightRateArray = array.instance(d_shape, dtype = float)
-        relocateCounterArray = array.instance(d_shape, dtype = float)
+    if geo_corr_enabled.value :
+        log('geometry correction')
+        DS = lib.geo_corr(DS)
         
-        for i in xrange(ds.shape[0]):
-            GeometryCorrection.rebinWithTwoTheta(ds[i].__iArray__, ds[i].var.__iArray__, \
-                        res[i].__iArray__, res[i].var.__iArray__, pixel_2theta.__iArray__, \
-                        axis_2theta.__iArray__, relocateLeftIndexArray.__iArray__, \
-                        relocateRightIndexArray.__iArray__, relocateLeftRateArray.__iArray__, \
-                        relocateRightRateArray.__iArray__, relocateCounterArray.__iArray__, \
-                        i == 0)
-        r2.axes[2]=axis_2theta
-        res.copy_metadata_shallow(ds)
-        res.append_log('geometry curve correction')
-    else:
-        pass
-    return res
+    DS.location = location
+    DS.id = id
+    DS.title = title
+    Plot1.set_dataset(DS[0])
+    ind_jump.options = range(DS.shape[0])
+    var_jump.options = DS.axes[0].tolist()
+    ind_jump.value = 0
+        
+    VI = lib.v_intg(DS)
+    Plot2.set_dataset(VI[0])
+    
+    IR = lib.i_intg(VI)
+    Plot3.set_dataset(IR)
+    
+# Use below example to create a new Plot
+# Plot4 = Plot(title = 'new plot')
 
-def v_intg(ds):
-    return ds.intg(1)
+# This function is called when pushing the Run button in the control UI.
+def __run_script__(fns):
+    # Use the provided resources, please don't remove.
+    global Plot1
+    global Plot2
+    global Plot3
+    
+    # check if a list of file names has been given
+    if (fns is None or len(fns) == 0) :
+        print 'no input datasets'
+    else :
+        for fn in fns:
+            # load dataset with each file name
+            ds = df[fn]
+            print ds.shape
+    print arg1_name.value
+    
+def __dispose__():
+    global Plot1
+    global Plot2
+    global Plot3
+    Plot1.clear()
+    Plot2.clear()
+    Plot3.clear()
