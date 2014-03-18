@@ -73,7 +73,7 @@ INT_EXP_OPTIONS = ["default - use current mask", \
 ind_jump = Par('int', -1, options = [], command = 'jump_to_index()')
 ind_jump.title = 'select to show data at index'
 var_jump = Par('float', float('NAN'), [], command = 'jump_to_var()')
-var_jump.title = 'select to show data with scan variable at '
+var_jump.title = 'select scan variable at '
 g_jump = Group('Jump to Scan Index')
 g_jump.add(ind_jump, var_jump)
 
@@ -86,10 +86,26 @@ def jump_to_var():
     ind_jump.value = idx
 
 def update_plots(idx):
-    Plot1.set_dataset(DS[idx])
-    Plot1.title = str(DS.id) + "_" + str(idx)
-    Plot2.set_dataset(VI[idx])
-    Plot2.title = str(DS.id) + "_integration_" + str(idx)
+    if DS is None:
+        return
+    stth = DS.stth
+    is_fixed_stth = True
+    if math.fabs(stth[0] - stth[-1]) > 1e-3:
+        is_fixed_stth = False
+    if is_fixed_stth:
+        Plot1.set_dataset(DS[idx])
+        Plot1.title = str(DS.id) + "_" + str(idx)
+        Plot2.set_dataset(VI[idx])
+        Plot2.title = str(DS.id) + "_integration_" + str(idx)
+    else:
+        DS.axes[2] = DS.two_theta_axes[idx]
+        DS.axes.title = 'two theta'
+        VI.axes[1] = DS.two_theta_axes[idx]
+        VI.axes.title = 'two theta'
+        Plot1.set_dataset(DS[idx])
+        Plot1.title = str(DS.id) + "_" + str(idx)
+        Plot2.set_dataset(VI[idx])
+        Plot2.title = str(DS.id) + "_integration_" + str(idx)        
     
 def jump_to_index():
     idx = ind_jump.value
@@ -107,7 +123,7 @@ eff_map.title = 'efficiency map file'
 g_eff = Group('Efficiency Correction')
 g_eff.add(eff_corr_enabled, eff_map)
 
-geo_corr_enabled = Par('bool', False)
+geo_corr_enabled = Par('bool', True)
 geo_corr_enabled.title = 'geometry correction enabled'
 g_geo = Group('Geometry Correction')
 g_geo.add(geo_corr_enabled)
@@ -139,16 +155,16 @@ def reduce():
     global VI
     global IR
     
-    if Plot1.pv.getPlot() is None:
-        Plot1.set_dataset(instance([2,2]))
     old_id = -1
     if not DS is None:
         old_id = DS.id 
-    df.datasets.clear()
     li = __DATASOURCE__.getSelectedDatasets()
     if len(li) == 0:
         open_error('Please select a file from the file source view.')
         return
+    if Plot1.pv.getPlot() is None:
+        Plot1.set_dataset(instance([2,2]))
+    df.datasets.clear()
     DS = df[str(li[0].location)]
     curr_idx = -1
     if old_id == DS.id:
