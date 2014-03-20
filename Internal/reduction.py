@@ -1,6 +1,7 @@
 from Internal import lib
 import math
 from gumpy.vis.event import MouseListener, MaskEventListener, AWTMouseListener
+from org.gumtree.vis.mask import RectangleMask
 
 # Script control setup area
 # script info
@@ -17,13 +18,12 @@ class NavMouseListener(MouseListener):
         
     def on_double_click(self, event):
         x = event.getX()
-        idx = var_jump.options.index(x)
-        ind_jump.value = idx
-        
-    def on_click(self, event):
-        print "x=" + str(event.getX()) + "; y=" + str(event.getY()) + \
-                    "; use double click to jump to x=" + str(event.getX())
-    
+        try:
+            idx = var_jump.options.index(x)
+            ind_jump.value = idx
+        except:
+            print 'script control has been updated, please run the reduction again.'
+            
 __mask_updated__ = False
 
 class RegionEventListener(MaskEventListener):
@@ -58,9 +58,10 @@ class MousePressListener(AWTMouseListener):
     
 mouse_press_listener = MousePressListener()
 
-DS = None
-VI = None
-IR = None
+if not 'DS' in globals():
+    DS = None
+    VI = None
+    IR = None
 
 INT_EXP_OPTIONS = ["default - use current mask", \
                    "use the whole detector", \
@@ -70,6 +71,7 @@ INT_EXP_OPTIONS = ["default - use current mask", \
                    "split detector into 5 strips", \
                    ]
 
+prog_bar = Par('progress', 0)
 ind_jump = Par('int', -1, options = [], command = 'jump_to_index()')
 ind_jump.title = 'select to show data at index'
 var_jump = Par('float', float('NAN'), [], command = 'jump_to_var()')
@@ -88,6 +90,8 @@ def jump_to_var():
 def update_plots(idx):
     if DS is None:
         return
+    prog_bar.max = 2
+    prog_bar.selection = 1
     stth = DS.stth
     is_fixed_stth = True
     if math.fabs(stth[0] - stth[-1]) > 1e-3:
@@ -95,6 +99,7 @@ def update_plots(idx):
     if is_fixed_stth:
         Plot1.set_dataset(DS[idx])
         Plot1.title = str(DS.id) + "_" + str(idx)
+        prog_bar.selection = 2
         Plot2.set_dataset(VI[idx])
         Plot2.title = str(DS.id) + "_integration_" + str(idx)
     else:
@@ -104,8 +109,16 @@ def update_plots(idx):
         VI.axes.title = 'two theta'
         Plot1.set_dataset(DS[idx])
         Plot1.title = str(DS.id) + "_" + str(idx)
+        prog_bar.selection = 2
         Plot2.set_dataset(VI[idx])
-        Plot2.title = str(DS.id) + "_integration_" + str(idx)        
+        Plot2.title = str(DS.id) + "_integration_" + str(idx)
+    if Plot1.x_label != 'Two Theta (degree)':
+        Plot1.x_label = 'Two Theta (degree)'
+        Plot1.y_label = 'Detector Y (mm)'
+    if Plot1.y_label != 'Two Theta (degree)':
+        Plot2.x_label = 'Two Theta (degree)'
+        Plot2.y_label = 'Counts'
+    prog_bar.selection = 0
     
 def jump_to_index():
     idx = ind_jump.value
@@ -164,6 +177,8 @@ def reduce():
         return
     if Plot1.pv.getPlot() is None:
         Plot1.set_dataset(instance([2,2]))
+    prog_bar.max = 5
+    prog_bar.selection = 0
     df.datasets.clear()
     DS = df[str(li[0].location)]
     curr_idx = -1
@@ -174,12 +189,14 @@ def reduce():
     title = DS.title
     DS = DS.get_reduced(1)
     
+    prog_bar.selection = 1
     if eff_corr_enabled.value and eff_map.value != None \
             and len(eff_map.value.strip()) > 0:
         log('running efficiency correction')
         map = lib.make_eff_map(df, str(eff_map.value))
         lib.eff_corr(DS, map)
         
+    prog_bar.selection = 2
     if geo_corr_enabled.value :
         log('running geometry correction')
     DS = lib.geo_corr(DS, geo_corr_enabled.value)
@@ -195,6 +212,7 @@ def reduce():
     if reg_enabled.value :
         masks = Plot1.get_masks()
     
+    prog_bar.selection = 3
     log('running vertical integration')
     VI = lib.v_intg(DS, masks)
 #    Plot2.set_dataset(VI[0])
@@ -208,14 +226,18 @@ def reduce():
         ind_jump.value = curr_idx
         update_plots(curr_idx)
     
+    prog_bar.selection = 4
     log('running intensity integration')
     IR = lib.i_intg(VI)
+
+    prog_bar.selection = 5
     Plot3.set_dataset(IR)
     Plot3.title = str(DS.id) + "_intensity"
     Plot3.set_mouse_listener(NavMouseListener())
     
     Plot1.set_awt_mouse_listener(mouse_press_listener)
     Plot1.set_mask_listener(regionListener)
+    prog_bar.selection = 0
     
 def run_intg():
     global DS
@@ -313,6 +335,10 @@ def integration_export():
         return
     dss = __DATASOURCE__.getSelectedDatasets()
     if len(dss) == 0:
+        print 'Error: please select at least one data file.'
+    prog_bar.max = len(dss) + 1
+    prog_bar.selection = 0
+    if len(dss) == 0:
         return
     fi = File(path)
     if not fi.exists():
@@ -324,7 +350,10 @@ def integration_export():
         map = lib.make_eff_map(df, str(eff_map.value))
     else:
         map = None
+    dss_idx = 0
     for dinfo in dss:
+        dss_idx += 1
+        prog_bar.selection = dss_idx
         df.datasets.clear()
         log('exporting ' + dinfo.location)
         ds = df[str(dinfo.location)]
@@ -336,30 +365,78 @@ def integration_export():
                     masks = Plot1.get_masks()
                 except:
                     pass
-            vi = lib.v_intg(rds, masks)
+            c_masks = []
+            for m in masks:
+                c_m = RectangleMask(True, -180, m.minY, 360, m.maxY - m.minY)
+                c_masks.append(c_m)
+            vi = lib.v_intg(rds, c_masks)
             vi.location = ds.location
-            vi.copy_metadata_shallow(rds)
             lib.v_export(vi, path)
         elif exp_mask.value == INT_EXP_OPTIONS[1]:
             vi = lib.v_intg(rds, masks)
-            vi.copy_metadata_shallow(rds)
+            vi.location = ds.location
             lib.v_export(vi, path)
         else :
             idx = INT_EXP_OPTIONS.index(exp_mask.value)
             mask_group = make_mask_group(rds, idx)
             for mask in mask_group :
                 vi = lib.v_intg(rds, [mask])
-                vi.copy_metadata_shallow(rds)
+                vi.location = ds.location
                 lib.v_export(vi, path)
+    prog_bar.selection = dss_idx + 1
+    prog_bar.selection = 0
     print 'Done'
 
 def make_mask_group(ds, num):
     masks = []
-    x_axis = ds.axes[1]
-    y_axis = ds.axes[0]
+    y_axis = ds.axes[1]
     y_step = (y_axis[-1] - y_axis[0]) / num
     for i in xrange(num) :
-        mask = RectangleMask(True, x_axis[0], y_axis[0] + y_step * i, \
-                             x_axis[-1] - x_axis[0], y_step)
+        mask = RectangleMask(True, -180, y_axis[0] + y_step * i, \
+                             360, y_step)
         masks.append(mask)
     return masks
+
+def intensity_export():
+    path = selectSaveFolder()
+    if path == None:
+        return
+    dss = __DATASOURCE__.getSelectedDatasets()
+    if len(dss) == 0:
+        print 'Error: please select at least one data file.'
+    prog_bar.max = len(dss) + 1
+    prog_bar.selection = 0
+    if len(dss) == 0:
+        return
+    fi = File(path)
+    if not fi.exists():
+        if not fi.mkdir():
+            print 'Error: failed to make directory: ' + path
+            return
+    if eff_corr_enabled.value and eff_map.value != None \
+            and len(eff_map.value.strip()) > 0:
+        map = lib.make_eff_map(df, str(eff_map.value))
+    else:
+        map = None
+    dss_idx = 0
+    for dinfo in dss:
+        dss_idx += 1
+        prog_bar.selection = dss_idx
+        df.datasets.clear()
+        log('exporting ' + dinfo.location)
+        ds = df[str(dinfo.location)]
+        rds = silent_reduce(ds, map)
+        masks = []
+        if reg_enabled.value :
+            try:
+                masks = Plot1.get_masks()
+            except:
+                pass
+        vi = lib.v_intg(rds, masks)
+        ir = lib.i_intg(vi)
+        ir.copy_metadata_shallow(vi)
+        ir.location = ds.location
+        lib.i_export(ir, path)
+    prog_bar.selection = dss_idx + 1
+    prog_bar.selection = 0
+    print 'Done'

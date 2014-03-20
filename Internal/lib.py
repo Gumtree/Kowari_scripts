@@ -216,9 +216,9 @@ def v_intg(ds, masks):
             res.axes[0] = ds.axes[0]
             res.axes[1] = ds.axes[2]
             mask = masks[0]
-            res.append_log(ds.log + 'Processed with: apply mask y in [' + str(mask.minY) + ',' \
+            res.copy_metadata_shallow(ds)
+            res.append_log('Processed with: apply mask y in [' + str(mask.minY) + ',' \
                            + str(mask.maxY) + '], x in [' + str(mask.minX) + ',' + str(mask.maxX) + ']')
-            ds.log = res.log
             return res
         else :
             y_axis = ds.axes[-2]
@@ -246,13 +246,15 @@ def v_intg(ds, masks):
                                  * (x_axis.size - 1)) + 1
                     if x_iMax < 0:
                         continue
-                    res[i, x_iMin : x_iMax] = ds[i, y_iMin : y_iMax, x_iMin : x_iMax].intg(1)
+                    res[i, x_iMin : x_iMax] = ds[i, y_iMin : y_iMax, x_iMin : x_iMax].intg(0)
             res.axes[0] = ds.axes[0]
             res.axes[1] = ds.axes[2]
             mask = masks[0]
-            res.append_log(ds.log + 'Processed with: apply mask y in [' + str(mask.minY) + ',' \
+            if hasattr(ds, 'two_theta_axes'):
+                res.two_theta_axes = ds.two_theta_axes
+            res.copy_metadata_shallow(ds)
+            res.append_log('Processed with: apply mask y in [' + str(mask.minY) + ',' \
                            + str(mask.maxY) + '], x in [' + str(mask.minX) + ',' + str(mask.maxX) + ']')
-            ds.log = res.log
             return res
     else:
         return ds.intg(1)
@@ -272,8 +274,10 @@ def v_export(ds, path):
         minfo = log[log.index('y in [') : ]
         minfo = minfo[6 : minfo.index(']')]
         ext += '_' + minfo.replace(',', '_')
-    if len(ext) > 0:
-        sn += '_' + ext
+    if len(ext) > 0 :
+        if not ext.startswith('_') :
+            sn += '_'
+        sn += ext
     sn += '.xyd'
     
     f = open(path + '/' + sn, 'w')
@@ -307,6 +311,8 @@ def v_export(ds, path):
         scan_var = ds.axes[0]
         x_axis = ds.axes[1]
         for i in xrange(ds.shape[0]):
+            if hasattr(ds, 'two_theta_axes'):
+                x_axis = ds.two_theta_axes[i]
             text += '# Scan variable: %s=%f\n' % (scan_var.title, scan_var[i])
             text += '# time=%f seconds \tbm1_counts=%d\n' % (ds.detector_time[i], ds.bm1_counts[i])
             text += '# Two Theta \tIntensity Integration \tSigma\n'
@@ -340,6 +346,8 @@ def v_export(ds, path):
         scan_var = ds.axes[0]
         x_axis = ds.axes[1]
         for i in xrange(ds.shape[0]):
+            if hasattr(ds, 'two_theta_axes'):
+                x_axis = ds.two_theta_axes[i]
             text += '# Scan variable: %s=%f\n' % (scan_var.title, scan_var[i])
             text += '# time=%f seconds \tbm1_counts=%d\n' % (ds.detector_time, ds.bm1_counts)
             text += '# Two Theta \tIntensity Integration \tSigma\n'
@@ -350,5 +358,93 @@ def v_export(ds, path):
                                         (val if not math.isnan(val) else 0), \
                                         (math.sqrt(var) if not math.isnan(var) and var != 0 else 1))
             text += '\n'
+    f.write(text)
+    f.close()
+    
+
+def i_export(ds, path):
+    sn = 'KWR%07d'%ds.id
+    ext = ''
+    log = ds.log
+    if log.__contains__('efficiency') :
+        ext += 'e'
+    if log.__contains__('geometry') :
+        ext += 'g'
+    if log.__contains__('y in [') :
+        minfo = log[log.index('y in [') : ]
+        minfo = minfo[6 : minfo.index(']')]
+        ext += '_' + minfo.replace(',', '_')
+    if len(ext) > 0 :
+        if not ext.startswith('_') :
+            sn += '_'
+        sn += ext
+    sn += '.xid'
+    
+    f = open(path + '/' + sn, 'w')
+    
+    if f is None:
+        print 'failed to make file ' + path + '/' + sn
+        
+    loc = ds.location
+    if loc.startswith('/') :
+        loc = loc[1:]
+    if len(ds) > 1:
+        text = '# Raw nexus file: %s\n' % loc
+        text += '# \texperiment_title=%s \tsample_name=%s\n' % (str(ds.experiment_title), \
+                                                               str(ds.sample_name))
+        text += '# \tsample_description=%s\n' % str(ds.sample_description)
+        text += '# \tuser_name=%s\n' % str(ds.user_name)
+        text += '# DETECTOR resolution=(421,421) \tactive_width=280.0 mm \tmode=%s \tpreset=%s\n' % \
+                    (str(ds.mode), str(ds.preset))
+        text += '# SAMPLE environment\n'
+        text += '# \tsx=%.5f mm \tsy=%.5f mm \tsz=%.5f mm\n' % (ds.sx[0], ds.sy[0], ds.sz[0])
+        text += '# \tsom=%.5f degrees \tstth=%.5f degrees\n' % (ds.som[0], ds.stth[0])
+        text += '# MONOCHROMATOR environment\n'
+        text += '# \tmphi=%.5f degrees \tmchi=%.5f degrees\n' % (ds.mphi[0], ds.mchi[0])
+        text += '# \tmx=%.5f mm \tmy=%.5f mm\n' % (ds.mx[0], ds.my[0])
+        text += '# \tmom=%.5f degrees \tmtth=%.5f degrees\n' % (ds.mom[0], ds.mtth[0])
+        text += '# \tmf1=%.5f degrees \tmf2=%.5f degrees\n' % (ds.mf1[0], ds.mf2[0])
+        text += '# SLITS environment\n'
+        text += '# \tpsp=%.5f mm \tpsw=%.5f mm \tpsho=%.5f mm\n' % (ds.psp[0], ds.psw[0], ds.psho[0])
+        text += '# \tssp=%.5f mm \tssho=%.5f mm\n' % (ds.ssp[0], ds.ssho[0])
+        text += '# ' + log.replace('\n', '\n# ') + '\n'
+        x_axis = ds.axes[0]
+        text += '# %s \tIntensity Integration \tSigma\n' % x_axis.title
+        for i in xrange(len(ds)):
+            val = ds[i]
+            var = ds.var[i]
+            text += '%10.5f %15.5f %15.5f\n' % (x_axis[i], \
+                                (val if not math.isnan(val) else 0), \
+                                (math.sqrt(var) if not math.isnan(var) and var != 0 else 1))
+        text += '\n'
+    else :
+        text = '# Raw nexus file: %s\n' % loc
+        text += '# \texperiment_title=%s \tsample_name=%s\n' % (str(ds.experiment_title), \
+                                                               str(ds.sample_name))
+        text += '# \tsample_description=%s\n' % str(ds.sample_description)
+        text += '# \tuser_name=%s\n' % str(ds.user_name)
+        text += '# DETECTOR resolution=(421,421) \tactive_width=280.0 mm \tmode=%s \tpreset=%s\n' % \
+                    (str(ds.mode), str(ds.preset))
+        text += '# SAMPLE environment\n'
+        text += '# \tsx=%.5f mm \tsy=%.5f mm \tsz=%.5f mm\n' % (ds.sx, ds.sy, ds.sz)
+        text += '# \tsom=%.5f degrees \tstth=%.5f degrees\n' % (ds.som, ds.stth)
+        text += '# MONOCHROMATOR environment\n'
+        text += '# \tmphi=%.5f degrees \tmchi=%.5f degrees\n' % (ds.mphi, ds.mchi)
+        text += '# \tmx=%.5f mm \tmy=%.5f mm\n' % (ds.mx, ds.my)
+        text += '# \tmom=%.5f degrees \tmtth=%.5f degrees\n' % (ds.mom, ds.mtth)
+        text += '# \tmf1=%.5f degrees \tmf2=%.5f degrees\n' % (ds.mf1, ds.mf2)
+        text += '# SLITS environment\n'
+        text += '# \tpsp=%.5f mm \tpsw=%.5f mm \tpsho=%.5f mm\n' % (ds.psp, ds.psw, ds.psho)
+        text += '# \tssp=%.5f mm \tssho=%.5f mm\n' % (ds.ssp, ds.ssho)
+        text += '# ' + log.replace('\n', '\n# ') + '\n'
+        x_axis = ds.axes[0]
+        text += '# %s \tIntensity Integration \tSigma\n' % x_axis.title
+        val = ds[0]
+        var = ds.var[0]
+        text += '%10.5f %15.5f %15.5f\n' % (x_axis[0], \
+                                        (val if not math.isnan(val) else 0), \
+                                        (math.sqrt(var) if not math.isnan(var) and var != 0 else 1))
+        text += '\n'
+        
     f.write(text)
     f.close()
