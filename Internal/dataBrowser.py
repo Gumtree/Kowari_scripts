@@ -24,13 +24,13 @@ fit = Group('Fitting')
 g2 = Group('Plot2')
 g3 = Group('Plot3')
 #g4 = Group('Plot4')
-data_name = Par('string', 'bm3_counts', \
-               options = ['bm1_counts', 'bm2_counts', 'bm3_counts' 'total_counts'])
+data_name = Par('string', 'bm1_counts', \
+               options = ['bm1_counts', 'bm2_counts', 'bm3_counts', 'total_counts'])
 data_name.title = 'Select Data'
 normalise = Par('bool', False)
 axis_name = Par('string', 'suid')
 axis_name.title = 'Select Axis'
-axis_lock = Par('bool', False, command = 'lock_axis()')
+axis_lock = Par('bool', True, command = 'lock_axis()')
 axis_lock.title = 'Lock Axis'
 auto_fit = Par('bool', False)
 g1.add(data_name, axis_name, axis_lock, normalise, auto_fit)
