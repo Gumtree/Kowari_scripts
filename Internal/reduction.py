@@ -35,9 +35,8 @@ class RegionEventListener(MaskEventListener):
         pass
             
     def mask_removed(self, mask):
-        global __mask_updated__
         update_mask_list()
-        __mask_updated__ = True
+        run_intg()
     
     def mask_updated(self, mask):
         global __mask_updated__
