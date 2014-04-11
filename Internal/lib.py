@@ -185,7 +185,7 @@ def geo_corr(ds, enabled):
 def v_intg(ds, masks):
     if len(masks) > 0 :
         is_fixed_stth = True
-        if math.fabs(ds.stth[0] - ds.stth[-1]) > 1e-3:
+        if len(ds) > 1 and math.fabs(ds.stth[0] - ds.stth[-1]) > 1e-3:
             is_fixed_stth = False
         if is_fixed_stth:
             x_axis = ds.axes[-1]

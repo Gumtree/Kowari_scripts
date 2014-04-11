@@ -11,6 +11,9 @@ __script__.version = '1.0'
 # Use below example to create parameters.
 # The type can be string, int, float, bool, file.
 
+SAVED_EFFICIENCY_FILENAME_PRFN = 'kowari.savedEfficiency'
+SAVED_MASK_PRFN = 'kowari.savedMasks'
+
 class NavMouseListener(MouseListener):
     
     def __init__(self):
@@ -130,7 +133,10 @@ def jump_to_index():
 
 eff_corr_enabled = Par('bool', True)
 eff_corr_enabled.title = 'efficiency correction enabled'
-eff_map = Par('file', u'W:\data\kowari\KWR0049477.nx.hdf')
+eff_map = Par('file', '')
+d_map = get_prof_value(SAVED_EFFICIENCY_FILENAME_PRFN)
+if not d_map is None and d_map.strip() != '':
+    eff_map.value = d_map
 eff_map.title = 'efficiency map file'
 g_eff = Group('Efficiency Correction')
 g_eff.add(eff_corr_enabled, eff_map)
@@ -143,6 +149,44 @@ g_geo.add(geo_corr_enabled)
 reg_enabled = Par('bool', True)
 reg_enabled.title = 'region selection enabled'
 reg_list = Par('string', '')
+def str2maskstr(value):
+    items = value.split(';')
+    res = []
+    for item in items:
+        name = item[0:item.index('[')];
+        rstr = item[item.index('[') + 1 : item.index(']')]
+        range = rstr.split(',')
+        range.append(name)
+        res.append(range)
+    return res
+
+def str2mask(value):
+    items = value.split(';')
+    masks = []
+    for item in items:
+        name = item[0:item.index('[')];
+        rstr = item[item.index('[') + 1 : item.index(']')]
+        range = rstr.split(',')
+        mask = RectangleMask(True, float(range[0]), float(range[2]), \
+                             float(range[1]) - float(range[0]), \
+                             float(range[3]) - float(range[2]))
+        mask.name = name
+        masks.append(mask)
+    return masks
+
+def mask2str(masks):
+    res = ''
+    for mask in masks:
+        res += mask.name
+        res += '[' + str(mask.minX) + ',' + str(mask.maxX) + ',' \
+                + str(mask.minY) + ',' + str(mask.maxY) + ']'
+        if masks.indexOf(mask) < len(masks) - 1:
+            res += ';'
+    return res
+
+s_mask = get_prof_value(SAVED_MASK_PRFN)
+if not s_mask is None and s_mask.strip() != '':
+    reg_list.value = s_mask
 reg_list.title = 'mask list'
 reg_list.enabled = False
 
@@ -176,6 +220,7 @@ def reduce():
         return
     if Plot1.pv.getPlot() is None:
         Plot1.set_dataset(instance([2,2]))
+
     prog_bar.max = 5
     prog_bar.selection = 0
     df.datasets.clear()
@@ -209,11 +254,20 @@ def reduce():
         
     masks = []
     if reg_enabled.value :
-        masks = Plot1.get_masks()
+        if len(Plot1.get_masks()) > 0:
+            masks = Plot1.get_masks()
+        else :
+            if reg_list.value != None and reg_list.value.strip() != '':
+                masks = str2maskstr(reg_list.value)
+                for mask in masks:
+                    Plot1.add_mask_2d(float(mask[0]), float(mask[1]), \
+                                      float(mask[2]), float(mask[3]), mask[4])
+                masks = Plot1.get_masks()
     
     prog_bar.selection = 3
     log('running vertical integration')
     VI = lib.v_intg(DS, masks)
+    
 #    Plot2.set_dataset(VI[0])
 #    Plot2.title = str(DS.id) + "_integration_0"
 
@@ -238,6 +292,10 @@ def reduce():
     Plot1.set_mask_listener(regionListener)
     prog_bar.selection = 0
     
+    set_prof_value(SAVED_MASK_PRFN , str(reg_list.value))
+    set_prof_value(SAVED_EFFICIENCY_FILENAME_PRFN , str(eff_map.value))
+    save_pref()
+    
 def run_intg():
     global DS
     global VI
@@ -258,6 +316,10 @@ def run_intg():
     Plot3.title = str(DS.id) + "_intensity"
     Plot3.set_mouse_listener(NavMouseListener())
     __mask_locked__ = False
+    
+    set_prof_value(SAVED_MASK_PRFN , str(reg_list.value))
+    save_pref()
+
         
 #def apply_region(ds, masks):
 #    map = array.instance([ds.shape[-2], ds.shape[-1]], dtype=bool)
@@ -293,7 +355,7 @@ def precision_string(val, precision):
     
 def update_mask_list():
     if Plot1.ndim > 0:
-        reg_list.value = str(Plot1.get_masks())
+        reg_list.value = mask2str(Plot1.get_masks())
     
 update_mask_list()
 
@@ -364,6 +426,9 @@ def integration_export():
                     masks = Plot1.get_masks()
                 except:
                     pass
+            if len(masks) == 0:
+                if reg_list.value != None and reg_list.value.strip() != '':
+                    masks = str2mask(reg_list.value)
             c_masks = []
             for m in masks:
                 c_m = RectangleMask(True, -180, m.minY, 360, m.maxY - m.minY)
@@ -384,6 +449,11 @@ def integration_export():
                 lib.v_export(vi, path)
     prog_bar.selection = dss_idx + 1
     prog_bar.selection = 0
+    
+    set_prof_value(SAVED_MASK_PRFN , str(reg_list.value))
+    set_prof_value(SAVED_EFFICIENCY_FILENAME_PRFN , str(eff_map.value))
+    save_pref()
+
     print 'Done'
 
 def make_mask_group(ds, num):
@@ -431,6 +501,10 @@ def intensity_export():
                 masks = Plot1.get_masks()
             except:
                 pass
+            if len(masks) == 0:
+                if reg_list.value != None and reg_list.value.strip() != '':
+                    masks = str2mask(reg_list.value)
+
         vi = lib.v_intg(rds, masks)
         ir = lib.i_intg(vi)
         ir.copy_metadata_shallow(vi)
@@ -438,4 +512,9 @@ def intensity_export():
         lib.i_export(ir, path)
     prog_bar.selection = dss_idx + 1
     prog_bar.selection = 0
+    
+    set_prof_value(SAVED_MASK_PRFN , str(reg_list.value))
+    set_prof_value(SAVED_EFFICIENCY_FILENAME_PRFN , str(eff_map.value))
+    save_pref()
+
     print 'Done'
