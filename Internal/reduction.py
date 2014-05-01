@@ -96,7 +96,7 @@ def update_plots(idx):
     prog_bar.selection = 1
     stth = DS.stth
     is_fixed_stth = True
-    if math.fabs(stth[0] - stth[-1]) > 1e-3:
+    if len(DS) > 1 and math.fabs(stth[0] - stth[-1]) > 1e-3:
         is_fixed_stth = False
     if is_fixed_stth:
         Plot1.set_dataset(DS[idx])

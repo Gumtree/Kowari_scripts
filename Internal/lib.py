@@ -6,7 +6,7 @@ SKIP_LEFT = 5
 SKIP_RIGHT = 5
 SKIP_TOP = 5
 SKIP_BOTTOM = 5
-LOWER_LIM = 0.1
+LOWER_LIM = 0.001
 DEGREE_RAD_COEFFICIENT = 180 / math.pi
 DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE = 1078.0
 
@@ -26,16 +26,20 @@ def make_eff_map(df, path):
     
     map = map.float_copy()
     map.title = title
-    map[0:SKIP_LEFT, :] = 1
     shape = map.shape
+    
+#    ctr = map[SKIP_LEFT:shape[0] - SKIP_RIGHT, SKIP_BOTTOM:shape[1] - SKIP_TOP]
+    ctr = map
+    avg = ctr.sum() / ctr.size
+    print avg
+    ctr *= 1.0 / avg
+
+    map[0:SKIP_LEFT, :] = 1
     map[shape[0] - SKIP_RIGHT : shape[0], :] = 1
     map[SKIP_LEFT : shape[0] - SKIP_RIGHT, 0 : SKIP_BOTTOM] = 1
     map[SKIP_LEFT : shape[0] - SKIP_RIGHT, shape[1] - SKIP_TOP : shape[1]] = 1
 
-    ctr = map[SKIP_LEFT:shape[0] - SKIP_RIGHT, SKIP_BOTTOM:shape[1] - SKIP_TOP]
-    avg = ctr.sum() / ctr.size
-    ctr /= avg
-    ctr[ctr < LOWER_LIM] = 1
+#    ctr[ctr < LOWER_LIM] = 1
     return map
     
     
