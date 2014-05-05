@@ -44,9 +44,12 @@ def make_eff_map(df, path):
     
     
 def eff_corr(ds, map):
-    for fm in ds:
-        fm /= map
-    ds.append_log('Processed with: efficiency correction with ' + str(map.title))
+#    for fm in ds:
+#        fm /= map
+    res = ds / map
+    res.copy_metadata_shallow(ds)
+    res.append_log('Processed with: efficiency correction with ' + str(map.title))
+    return res
 
 def geo_corr(ds, enabled):
     global DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE

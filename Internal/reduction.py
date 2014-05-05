@@ -238,7 +238,7 @@ def reduce():
             and len(eff_map.value.strip()) > 0:
         log('running efficiency correction')
         map = lib.make_eff_map(df, str(eff_map.value))
-        lib.eff_corr(DS, map)
+        DS = lib.eff_corr(DS, map)
         
     prog_bar.selection = 2
     if geo_corr_enabled.value :
@@ -366,7 +366,7 @@ def silent_reduce(ds, map = None):
     ds = ds.get_reduced(1)
     
     if not map is None:
-        lib.eff_corr(ds, map)
+        ds = lib.eff_corr(ds, map)
         
     rds = lib.geo_corr(ds, geo_corr_enabled.value)
     ds.close()
