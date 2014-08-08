@@ -133,7 +133,7 @@ def jump_to_index():
 
 eff_corr_enabled = Par('bool', True)
 eff_corr_enabled.title = 'efficiency correction enabled'
-eff_map = Par('file', '')
+eff_map = Par('file', u'D:\EXPERIMENTS\STRESS\KWR0039477 calibration.nx.hdf')
 d_map = get_prof_value(SAVED_EFFICIENCY_FILENAME_PRFN)
 if not d_map is None and d_map.strip() != '':
     eff_map.value = d_map
