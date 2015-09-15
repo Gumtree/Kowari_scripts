@@ -18,6 +18,7 @@ two_theta_vector=$entry/data/polar_angle
 verticalOffset=$entry/instrument/detector/y_pixel_offset
 detectorArc=$entry/instrument/detector/arc
 detector_time=$entry/instrument/detector/time
+time=$entry/instrument/detector/time
 time_of_flight=$entry/instrument/detector/time_of_flight
 bm1_counts=$entry/monitor/bm1_counts
 bm2_counts=$entry/monitor/bm2_counts

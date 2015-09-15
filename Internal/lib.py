@@ -385,7 +385,7 @@ def i_export(ds, path):
         if not ext.startswith('_') :
             sn += '_'
         sn += ext
-    sn += '.xid'
+    sn += '.fit'
     
     f = open(path + '/' + sn, 'w')
     

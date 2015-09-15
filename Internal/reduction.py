@@ -6,7 +6,7 @@ from org.gumtree.vis.mask import RectangleMask
 # Script control setup area
 # script info
 __script__.title = 'Kowari Reduction'
-__script__.version = '1.0'
+__script__.version = '2.0'
 
 # Use below example to create parameters.
 # The type can be string, int, float, bool, file.
@@ -369,7 +369,7 @@ def silent_reduce(ds, map = None):
         ds = lib.eff_corr(ds, map)
         
     rds = lib.geo_corr(ds, geo_corr_enabled.value)
-    ds.close()
+#    ds.close()
     rds.id = id
     return rds
 

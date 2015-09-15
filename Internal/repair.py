@@ -44,7 +44,7 @@ def repair():
                         item[i] = item[gid]
                     except:
                         pass
-        savepath = path + '/' + ('QKK%07d' % ds.id) + '_fix.hdf'
+        savepath = path + '/' + ('KWR%07d' % ds.id) + '_fix.hdf'
         ds.save_copy(str(savepath))
         print 'Fixed file saved to ' + savepath
             
