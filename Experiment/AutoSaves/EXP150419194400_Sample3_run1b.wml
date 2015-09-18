@@ -1,0 +1,90 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.SicsBlockTask">
+    <parameters>
+      <label>SICS Command</label>
+      <colour>DARK_GRAY</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+          <text>set t1 25&#xd;
+drive stth 39&#xd;
+drive som 70.5&#xd;
+samplename &quot;Sample1 111 1.67A&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 0 355 72 time $t1&#xd;
+drive echi 12&#xd;
+runscan ephi 355 0 72 time $t1&#xd;
+drive echi 24&#xd;
+runscan ephi 0 355 72 time $t1&#xd;
+drive echi 36&#xd;
+runscan ephi 355 0 72 time $t1&#xd;
+drive echi 48&#xd;
+runscan ephi 0 355 72 time $t1&#xd;
+drive echi 60&#xd;
+runscan ephi 355 0 72 time $t1&#xd;
+drive echi 72&#xd;
+runscan ephi 0 355 72 time $t1&#xd;
+drive echi 84&#xd;
+runscan ephi 355 0 72 time $t1&#xd;
+#&#xd;
+#&#xd;
+set t2 25&#xd;
+drive stth 51&#xd;
+drive som 64.5&#xd;
+samplename &quot;Sample1 200 1.67A&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 0 355 72 time $t2&#xd;
+drive echi 15&#xd;
+runscan ephi 355 0 72 time $t2&#xd;
+drive echi 30&#xd;
+runscan ephi 0 355 72 time $t2&#xd;
+drive echi 45&#xd;
+runscan ephi 355 0 72 time $t2&#xd;
+drive echi 60&#xd;
+runscan ephi 0 355 72 time $t2&#xd;
+drive echi 75&#xd;
+runscan ephi 355 0 72 time $t2&#xd;
+drive echi 90&#xd;
+runscan ephi 0 355 72 time $t2&#xd;
+#&#xd;
+#&#xd;
+set t3 25&#xd;
+drive stth 76.5&#xd;
+drive som 51.75&#xd;
+samplename &quot;Sample1 111 1.67A&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 355 0 72 time $t3&#xd;
+drive echi 12&#xd;
+runscan ephi 0 355 72 time $t3&#xd;
+drive echi 24&#xd;
+runscan ephi 355 0 72 time $t3&#xd;
+drive echi 36&#xd;
+runscan ephi 0 355 72 time $t3&#xd;
+drive echi 48&#xd;
+runscan ephi 355 0 72 time $t3&#xd;
+drive echi 60&#xd;
+runscan ephi 0 355 72 time $t3&#xd;
+drive echi 72&#xd;
+runscan ephi 355 0 72 time $t3&#xd;
+drive echi 84&#xd;
+runscan ephi 0 355 72 time $t3&#xd;
+#&#xd;
+drive echi 0&#xd;
+drive ephi 0&#xd;
+drive stth 39</text>
+        </org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

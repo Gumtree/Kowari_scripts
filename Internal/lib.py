@@ -385,7 +385,7 @@ def i_export(ds, path):
         if not ext.startswith('_') :
             sn += '_'
         sn += ext
-    sn += '.fit'
+    sn += '.sum'
     
     f = open(path + '/' + sn, 'w')
     

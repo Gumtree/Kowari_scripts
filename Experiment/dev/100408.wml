@@ -1,0 +1,365 @@
+<workflow>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sz</deviceId>
+              <target>320.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.ScanNDTask">
+    <parameters>
+      <label>Multi-dimensional Scan</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+          <parameters>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sx</scanVariable>
+              <startPosition>16.31</startPosition>
+              <finishPosition>18.71</finishPosition>
+              <stepSize>0.2</stepSize>
+              <numberOfPoints>13</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sy</scanVariable>
+              <startPosition>-1.0</startPosition>
+              <finishPosition>1.0</finishPosition>
+              <stepSize>1.0</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>som</scanVariable>
+              <startPosition>-132.5</startPosition>
+              <finishPosition>-131.5</finishPosition>
+              <stepSize>0.5</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>120.0</preset>
+          <commandName>scanND</commandName>
+        </au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sz</deviceId>
+              <target>230.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>som</deviceId>
+              <target>-42.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sz</deviceId>
+              <target>320.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.ScanNDTask">
+    <parameters>
+      <label>Multi-dimensional Scan</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+          <parameters>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sx</scanVariable>
+              <startPosition>16.26</startPosition>
+              <finishPosition>18.66</finishPosition>
+              <stepSize>0.2</stepSize>
+              <numberOfPoints>13</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>FINISH</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sy</scanVariable>
+              <startPosition>-1.0</startPosition>
+              <finishPosition>1.0</finishPosition>
+              <stepSize>1.0</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>som</scanVariable>
+              <startPosition>-42.5</startPosition>
+              <finishPosition>-41.5</finishPosition>
+              <stepSize>0.5</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>120.0</preset>
+          <commandName>scanND</commandName>
+        </au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sz</deviceId>
+              <target>230.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>som</deviceId>
+              <target>48.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="org.gumtree.gumnix.sics.batch.ui.CommandBlockTask">
+    <parameters>
+      <label>SICS Batch Commands</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sz</deviceId>
+              <target>320.0</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.ScanNDTask">
+    <parameters>
+      <label>Multi-dimensional Scan</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+          <parameters>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sx</scanVariable>
+              <startPosition>16.55</startPosition>
+              <finishPosition>18.949999</finishPosition>
+              <stepSize>0.2</stepSize>
+              <numberOfPoints>13</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sy</scanVariable>
+              <startPosition>-1.0</startPosition>
+              <finishPosition>1.0</finishPosition>
+              <stepSize>1.0</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>som</scanVariable>
+              <startPosition>47.5</startPosition>
+              <finishPosition>48.5</finishPosition>
+              <stepSize>0.5</stepSize>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>SIZE</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>START</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>120.0</preset>
+          <commandName>scanND</commandName>
+        </au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[2]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[3]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+                <method>drive</method>
+                <parameters>
+                  <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                    <deviceId>som</deviceId>
+                    <target>-42.0</target>
+                  </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                </parameters>
+              </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[6]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[7]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[10]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[8]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[9]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[5]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[4]/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

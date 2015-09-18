@@ -1,0 +1,111 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.SicsBlockTask">
+    <parameters>
+      <label>SICS Command</label>
+      <colour>DARK_GRAY</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+          <text>set t 5&#xd;
+drive stth 48&#xd;
+drive som 156&#xd;
+samplename &quot;FER110, 1.67&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 18&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 36&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 54&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 72&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 90&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+#&#xd;
+#&#xd;
+set t 10&#xd;
+drive stth 70&#xd;
+drive som 145&#xd;
+samplename &quot;FER200, 1.67&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 15&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 30&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 45&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 60&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 75&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 90&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+#&#xd;
+#&#xd;
+set t 5&#xd;
+drive stth 90&#xd;
+drive som 135&#xd;
+samplename &quot;FER211, 1.67&quot;&#xd;
+drive echi 0&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 12&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 24&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 36&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 48&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 60&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 72&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+drive echi 84&#xd;
+runscan ephi 0 355 72 time $t&#xd;
+#&#xd;
+run echi 0&#xd;
+run ephi 0&#xd;
+run stth 48&#xd;
+&#xd;
+</text>
+        </org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <au.gov.ansto.bragg.nbi.ui.core.commands.ScanNDCommand>
+                <parameters>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.SimpleNDParameter>
+                    <isDisposed>false</isDisposed>
+                    <scanVariable>sx</scanVariable>
+                    <startPosition>0.0</startPosition>
+                    <finishPosition>0.0</finishPosition>
+                    <stepSize>0.0</stepSize>
+                    <numberOfPoints>0</numberOfPoints>
+                    <doCreateFile>false</doCreateFile>
+                    <isLocked>false</isLocked>
+                    <changeSequence/>
+                    <currentPosition>0.0</currentPosition>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.SimpleNDParameter>
+                </parameters>
+                <scan__mode>time</scan__mode>
+                <preset>0.0</preset>
+                <commandName>scanND</commandName>
+              </au.gov.ansto.bragg.nbi.ui.core.commands.ScanNDCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

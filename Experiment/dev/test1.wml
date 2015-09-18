@@ -1,0 +1,135 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.AdvancedScanTask">
+    <parameters>
+      <label>Advanced Scan</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.kowari.exp.command.AdvancedScanCommand>
+          <parameters>
+            <au.gov.ansto.bragg.kowari.exp.command.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.kowari.exp.command.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sy</scanVariable>
+                  <startPosition>0.0</startPosition>
+                  <finishPosition>1.0</finishPosition>
+                  <stepSize>0.5</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.kowari.exp.command.SingleADParameter>
+              </parameters>
+              <numberOfPoints>3</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.AdvancedParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>10.0</preset>
+          <commandName>scan</commandName>
+        </au.gov.ansto.bragg.kowari.exp.command.AdvancedScanCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.HeaderInformationBlockTask">
+    <parameters>
+      <label>Sample Header Information</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.SicsVariableCommand>
+          <sicsVariable>samplename</sicsVariable>
+          <value>test1</value>
+          <isQuoted>true</isQuoted>
+        </org.gumtree.gumnix.sics.batch.ui.commands.SicsVariableCommand>
+        <org.gumtree.gumnix.sics.batch.ui.commands.SicsVariableCommand>
+          <sicsVariable>sampledescription</sicsVariable>
+          <value>for testing</value>
+          <isQuoted>true</isQuoted>
+        </org.gumtree.gumnix.sics.batch.ui.commands.SicsVariableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.kowari.exp.task.ScanNDTask">
+    <parameters>
+      <label>Multi-dimensional Scan</label>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+          <parameters>
+            <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+              <isDisposed>false</isDisposed>
+              <scanVariable>sx</scanVariable>
+              <startPosition>0.0</startPosition>
+              <finishPosition>5.0</finishPosition>
+              <stepSize>0.9999999999999999</stepSize>
+              <numberOfPoints>6</numberOfPoints>
+              <doCreateFile>true</doCreateFile>
+              <isLocked>false</isLocked>
+              <changeSequence>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>POINTS</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>FINISH</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+              </changeSequence>
+              <currentPosition>0.0</currentPosition>
+            </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>5.0</preset>
+          <commandName>scanND</commandName>
+        </au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[2]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+                <parameters>
+                  <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+                    <isDisposed>false</isDisposed>
+                    <scanVariable>sx</scanVariable>
+                    <startPosition>0.0</startPosition>
+                    <finishPosition>1.0</finishPosition>
+                    <stepSize>0.9999999999999999</stepSize>
+                    <numberOfPoints>2</numberOfPoints>
+                    <doCreateFile>false</doCreateFile>
+                    <isLocked>false</isLocked>
+                    <changeSequence>
+                      <au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>FINISH</au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter_-BlockName>
+                    </changeSequence>
+                    <currentPosition>0.0</currentPosition>
+                  </au.gov.ansto.bragg.kowari.exp.command.SimpleNDParameter>
+                </parameters>
+                <scan__mode>time</scan__mode>
+                <preset>10.0</preset>
+                <commandName>scanND</commandName>
+              </au.gov.ansto.bragg.kowari.exp.command.ScanNDCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+                <method>drive</method>
+                <parameters>
+                  <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                    <deviceId>sz</deviceId>
+                    <target>300.0</target>
+                  </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                </parameters>
+              </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[3]/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>
