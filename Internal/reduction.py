@@ -27,6 +27,7 @@ class NavMouseListener(MouseListener):
         except:
             print 'script control has been updated, please run the reduction again.'
             
+reg_changed = False
 __mask_updated__ = False
 
 class RegionEventListener(MaskEventListener):
@@ -38,12 +39,16 @@ class RegionEventListener(MaskEventListener):
         pass
             
     def mask_removed(self, mask):
-        update_mask_list()
-        run_intg()
+        global reg_changed
+        if not reg_changed:
+            update_mask_list()
+            run_intg()
     
     def mask_updated(self, mask):
+        global reg_changed
         global __mask_updated__
-        update_mask_list()
+        if not reg_changed:
+            update_mask_list()
         __mask_updated__ = True
         
 regionListener = RegionEventListener()
@@ -74,9 +79,9 @@ INT_EXP_OPTIONS = ["default - use current mask", \
                    ]
 
 prog_bar = Par('progress', 0)
-ind_jump = Par('int', -1, options = [], command = 'jump_to_index()')
+ind_jump = Par('int', -1, options=[], command='jump_to_index()')
 ind_jump.title = 'select to show data at index'
-var_jump = Par('float', float('NAN'), [], command = 'jump_to_var()')
+var_jump = Par('float', float('NAN'), [], command='jump_to_var()')
 var_jump.title = 'select scan variable at '
 g_jump = Group('Jump to Scan Index')
 g_jump.add(ind_jump, var_jump)
@@ -148,7 +153,25 @@ g_geo.add(geo_corr_enabled)
 
 reg_enabled = Par('bool', True)
 reg_enabled.title = 'region selection enabled'
+reg_enabled.colspan = 2
+#reg_list = Par('string', '', command='change_masks()')
 reg_list = Par('string', '')
+def change_masks():
+    global reg_changed
+    reg_changed = True
+    masks = Plot1.get_masks()
+    if masks != None and len(masks) > 0:
+        for mask in masks:
+            Plot1.remove_mask(mask)
+    if reg_list.value != None and reg_list.value.strip() != '':
+        masks = str2maskstr(reg_list.value)
+        for mask in masks:
+            Plot1.add_mask_2d(float(mask[0]), float(mask[1]), \
+                              float(mask[2]), float(mask[3]), mask[4])
+    run_intg()
+    reg_changed = False
+    print 'masks are updated'
+        
 def str2maskstr(value):
     items = value.split(';')
     res = []
@@ -178,8 +201,8 @@ def mask2str(masks):
     res = ''
     for mask in masks:
         res += mask.name
-        res += '[' + str(mask.minX) + ',' + str(mask.maxX) + ',' \
-                + str(mask.minY) + ',' + str(mask.maxY) + ']'
+        res += '[' + ('%.1f' % round(mask.minX, 1)) + ',' + ('%.1f' % round(mask.maxX, 1)) + ',' \
+                + ('%d' % round(mask.minY)) + ',' + ('%d' % round(mask.maxY)) + ']'
         if masks.indexOf(mask) < len(masks) - 1:
             res += ';'
     return res
@@ -187,22 +210,29 @@ def mask2str(masks):
 s_mask = get_prof_value(SAVED_MASK_PRFN)
 if not s_mask is None and s_mask.strip() != '':
     reg_list.value = s_mask
-reg_list.title = 'mask list'
-reg_list.enabled = False
-
+reg_list.title = 'masks[x_min, x_max, y_min, y_max]'
+reg_list.enabled = True
+reg_list.colspan = 2
+reg_discard = Act('discard_masks()', 'Discard Mask Change')
+reg_accept = Act('accept_masks()', 'Accept Mask Change')
 g_reg = Group('Region Selection')
-g_reg.add(reg_enabled, reg_list)
+g_reg.numColumns = 2
+g_reg.add(reg_enabled, reg_list, reg_discard, reg_accept)
+def accept_masks():
+    change_masks()
+def discard_masks():
+    update_mask_list()
 
 # Use below example to create a button
-act1 = Act('reduce()', 'Reduce Selected Data') 
+act1 = Act('reduce()', 'REDUCE SELECTED DATA') 
 
-exp_mask = Par('str', INT_EXP_OPTIONS[0], options = INT_EXP_OPTIONS)
-exp_b = Act('integration_export()', 'Batch Export Integration Result')
-g_exp = Group('Integration Export')
+exp_mask = Par('str', INT_EXP_OPTIONS[0], options=INT_EXP_OPTIONS)
+exp_b = Act('integration_export()', 'Export Profile')
+g_exp = Group('Profile Export')
 g_exp.add(exp_mask, exp_b)
 
-exp_i = Act('intensity_export()', 'Batch Export Intensity')
-g_int = Group('Intensity Export')
+exp_i = Act('intensity_export()', 'Export Integrated Intensity')
+g_int = Group('Integrated Intensity Export')
 g_int.add(exp_i)
 
 
@@ -219,7 +249,7 @@ def reduce():
         open_error('Please select a file from the file source view.')
         return
     if Plot1.pv.getPlot() is None:
-        Plot1.set_dataset(instance([2,2]))
+        Plot1.set_dataset(instance([2, 2]))
 
     prog_bar.max = 5
     prog_bar.selection = 0
@@ -321,7 +351,7 @@ def run_intg():
     save_pref()
 
         
-#def apply_region(ds, masks):
+# def apply_region(ds, masks):
 #    map = array.instance([ds.shape[-2], ds.shape[-1]], dtype=bool)
 #    rds = instance(ds.shape)
 #    x_axis = ds.axes[-1]
@@ -356,10 +386,11 @@ def precision_string(val, precision):
 def update_mask_list():
     if Plot1.ndim > 0:
         reg_list.value = mask2str(Plot1.get_masks())
-    
-update_mask_list()
 
-def silent_reduce(ds, map = None):
+if reg_list.value.strip() == '':
+    update_mask_list()
+
+def silent_reduce(ds, map=None):
     location = ds.location
     id = ds.id
     title = ds.title

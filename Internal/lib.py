@@ -224,8 +224,8 @@ def v_intg(ds, masks):
             res.axes[1] = ds.axes[2]
             mask = masks[0]
             res.copy_metadata_shallow(ds)
-            res.append_log('Processed with: apply mask y in [' + str(mask.minY) + ',' \
-                           + str(mask.maxY) + '], x in [' + str(mask.minX) + ',' + str(mask.maxX) + ']')
+            res.append_log('Processed with: apply mask y in [' + ('%d' % round(mask.minY)) + ',' \
+                           + ('%d' % round(mask.maxY)) + '], x in [' + ('%.1f' % round(mask.minX, 1)) + ',' + ('%.1f' % round(mask.maxX, 1)) + ']')
             return res
         else :
             y_axis = ds.axes[-2]
@@ -260,8 +260,8 @@ def v_intg(ds, masks):
             if hasattr(ds, 'two_theta_axes'):
                 res.two_theta_axes = ds.two_theta_axes
             res.copy_metadata_shallow(ds)
-            res.append_log('Processed with: apply mask y in [' + str(mask.minY) + ',' \
-                           + str(mask.maxY) + '], x in [' + str(mask.minX) + ',' + str(mask.maxX) + ']')
+            res.append_log('Processed with: apply mask y in [' + ('%d' % round(mask.minY)) + ',' \
+                           + ('%d' % round(mask.maxY)) + '], x in [' + ('%.1f' % round(mask.minX, 1)) + ',' + ('%.1f' % round(mask.maxX, 1)) + ']')
             return res
     else:
         return ds.intg(1)
