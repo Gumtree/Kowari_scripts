@@ -1,6 +1,7 @@
 from Internal import lib
 import math
 from gumpy.vis.event import MouseListener, MaskEventListener, AWTMouseListener
+from gumpy.nexus.fitting import Fitting, GAUSSIAN_FITTING
 from org.gumtree.vis.mask import RectangleMask
 
 # Script control setup area
@@ -94,6 +95,18 @@ def jump_to_var():
     idx = var_jump.options.index(var)
     ind_jump.value = idx
 
+def update_plot2(ds):
+    global Plot2
+    dss = Plot2.ds
+    f_curve = None
+    if dss != None and len(dss) > 0:
+        for item in dss:
+            if str(item.title) == 'fitting':
+                f_curve = item
+    Plot2.set_dataset(ds)
+    if not f_curve is None:
+        Plot2.add_dataset(f_curve)
+    
 def update_plots(idx):
     if DS is None:
         return
@@ -107,7 +120,8 @@ def update_plots(idx):
         Plot1.set_dataset(DS[idx])
         Plot1.title = str(DS.id) + "_" + str(idx)
         prog_bar.selection = 2
-        Plot2.set_dataset(VI[idx])
+#        Plot2.set_dataset(VI[idx])
+        update_plot2(VI[idx])
         Plot2.title = str(DS.id) + "_integration_" + str(idx)
     else:
         DS.axes[2] = DS.two_theta_axes[idx]
@@ -117,7 +131,8 @@ def update_plots(idx):
         Plot1.set_dataset(DS[idx])
         Plot1.title = str(DS.id) + "_" + str(idx)
         prog_bar.selection = 2
-        Plot2.set_dataset(VI[idx])
+#        Plot2.set_dataset(VI[idx])
+        update_plot2(VI[idx])
         Plot2.title = str(DS.id) + "_integration_" + str(idx)
     if Plot1.x_label != 'Two Theta (degree)':
         Plot1.x_label = 'Two Theta (degree)'
@@ -224,8 +239,53 @@ def discard_masks():
     update_mask_list()
 
 # Use below example to create a button
-act1 = Act('reduce()', 'REDUCE SELECTED DATA') 
-
+act_reduce = Act('reduce()', 'REDUCE SELECTED DATA')
+ 
+fit = Group('Fitting in Plot2')
+fit.numColumns = 2
+fit_min = Par('float', 'NaN')
+fit_max = Par('float', 'NaN')
+fit_act = Act('fit_curve()', 'Gaussian Fit Plot2')
+fit_act.colspan = 2
+peak_pos = Par('float', 'NaN')
+FWHM = Par('float', 'NaN')
+fit.add(fit_min, fit_max, fit_act, peak_pos, FWHM)
+def fit_curve():
+    global Plot2
+    ds = Plot2.ds
+    if len(ds) == 0:
+        log('Error: no curve to fit in Plot2.\n')
+        return
+    for d in ds:
+        if d.title == 'fitting':
+            Plot2.remove_dataset(d)
+    d0 = ds[0]
+    fitting = Fitting(GAUSSIAN_FITTING)
+    try:
+        fitting.set_histogram(d0, fit_min.value, fit_max.value)
+        val = peak_pos.value
+        if val == val:
+            fitting.set_param('mean', val)
+        val = FWHM.value
+        if val == val:
+            fitting.set_param('sigma', math.fabs(val / 2.35482))
+        res = fitting.fit()
+        res.var[:] = 0
+        res.title = 'fitting'
+        Plot2.add_dataset(res)
+        mean = fitting.params['mean']
+        mean_err = fitting.errors['mean']
+        FWHM.value = 2.35482 * math.fabs(fitting.params['sigma'])
+        FWHM_err = 5.54518 * math.fabs(fitting.errors['sigma'])
+        log('POS_OF_PEAK=' + str(mean) + ' +/- ' + str(mean_err))
+        log('FWHM=' + str(FWHM.value) + ' +/- ' + str(FWHM_err))
+        log('Chi2 = ' + str(fitting.fitter.getQuality()))
+        peak_pos.value = fitting.mean
+#        print fitting.params
+    except:
+#        traceback.print_exc(file = sys.stdout)
+        log('can not fit\n')
+        
 exp_mask = Par('str', INT_EXP_OPTIONS[0], options=INT_EXP_OPTIONS)
 exp_b = Act('integration_export()', 'Export Profile')
 g_exp = Group('Profile Export')
