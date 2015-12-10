@@ -3,6 +3,8 @@ import math
 from gumpy.vis.event import MouseListener, MaskEventListener, AWTMouseListener
 from gumpy.nexus.fitting import Fitting, GAUSSIAN_FITTING
 from org.gumtree.vis.mask import RectangleMask
+from org.gumtree.vis.hist2d.color import ColorScale
+
 
 # Script control setup area
 # script info
@@ -310,6 +312,7 @@ def reduce():
         return
     if Plot1.pv.getPlot() is None:
         Plot1.set_dataset(instance([2, 2]))
+        Plot1.set_color_scale(ColorScale.Spectrum)
 
     prog_bar.max = 5
     prog_bar.selection = 0
