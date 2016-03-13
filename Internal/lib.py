@@ -31,7 +31,7 @@ def make_eff_map(df, path):
 #    ctr = map[SKIP_LEFT:shape[0] - SKIP_RIGHT, SKIP_BOTTOM:shape[1] - SKIP_TOP]
     ctr = map
     avg = ctr.sum() / ctr.size
-    print avg
+#    print avg
     ctr *= 1.0 / avg
 
     map[0:SKIP_LEFT, :] = 1
