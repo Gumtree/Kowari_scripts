@@ -324,7 +324,8 @@ def reduce():
     location = DS.location
     id = DS.id
     title = DS.title
-    DS = DS.get_reduced(1)
+    if DS.ndim == 4 :
+        DS = DS.get_reduced(1)
     
     prog_bar.selection = 1
     if eff_corr_enabled.value and eff_map.value != None \
@@ -457,7 +458,8 @@ def silent_reduce(ds, map=None):
     location = ds.location
     id = ds.id
     title = ds.title
-    ds = ds.get_reduced(1)
+    if ds.ndim == 4:
+        ds = ds.get_reduced(1)
     
     if not map is None:
         ds = lib.eff_corr(ds, map)
