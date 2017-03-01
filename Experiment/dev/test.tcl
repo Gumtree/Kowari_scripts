@@ -1,5 +1,38890 @@
-drive dummy_motor 10
+set idx 0
 
-wait 3
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
 
-runscan dummy_motor 0 2 3 time 1 force true
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+set idx 0
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+set idx 0
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+set idx 0
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+set idx 0
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
+drive dummy_motor [expr $idx * 0.01]
+incr idx
+wait 1
+
