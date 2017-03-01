@@ -1,0 +1,741 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.kowari.ui.tasks.KowariTableScanTask">
+    <parameters>
+      <label>5/8 Columns Table Scan</label>
+      <colour>GREEN</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.nbi.ui.core.commands.SimpleTableScanCommand>
+          <parameters>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>1</index>
+              <preset>1800.0</preset>
+              <p0>-99.52847</p0>
+              <p1>12.4</p1>
+              <p2>104.790306</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames>
+                <string>sx</string>
+                <string>sy</string>
+                <string>sz</string>
+                <string>som</string>
+                <string>time</string>
+              </pNames>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>2</index>
+              <preset>1800.0</preset>
+              <p0>-99.34561</p0>
+              <p1>12.4</p1>
+              <p2>105.773445</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>3</index>
+              <preset>1800.0</preset>
+              <p0>-99.16275</p0>
+              <p1>12.4</p1>
+              <p2>106.75658</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>4</index>
+              <preset>1800.0</preset>
+              <p0>-99.07131</p0>
+              <p1>12.4</p1>
+              <p2>107.248146</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>5</index>
+              <preset>1800.0</preset>
+              <p0>-98.97988</p0>
+              <p1>12.4</p1>
+              <p2>107.739716</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>6</index>
+              <preset>1800.0</preset>
+              <p0>-98.88845</p0>
+              <p1>12.4</p1>
+              <p2>108.231285</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>7</index>
+              <preset>1800.0</preset>
+              <p0>-98.79702</p0>
+              <p1>12.4</p1>
+              <p2>108.722855</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>8</index>
+              <preset>1800.0</preset>
+              <p0>-98.61416</p0>
+              <p1>12.4</p1>
+              <p2>109.70599</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>9</index>
+              <preset>1800.0</preset>
+              <p0>-98.43129</p0>
+              <p1>12.4</p1>
+              <p2>110.68913</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>10</index>
+              <preset>1800.0</preset>
+              <p0>-98.06557</p0>
+              <p1>12.4</p1>
+              <p2>112.65541</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>11</index>
+              <preset>1800.0</preset>
+              <p0>-97.69984</p0>
+              <p1>12.4</p1>
+              <p2>114.62169</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>12</index>
+              <preset>1800.0</preset>
+              <p0>-97.33411</p0>
+              <p1>12.4</p1>
+              <p2>116.58796</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>13</index>
+              <preset>1800.0</preset>
+              <p0>-96.96838</p0>
+              <p1>12.4</p1>
+              <p2>118.55424</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>14</index>
+              <preset>1800.0</preset>
+              <p0>-96.60265</p0>
+              <p1>12.4</p1>
+              <p2>120.520515</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>15</index>
+              <preset>1800.0</preset>
+              <p0>-96.23693</p0>
+              <p1>12.4</p1>
+              <p2>122.48679</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>16</index>
+              <preset>1800.0</preset>
+              <p0>-95.77977</p0>
+              <p1>12.4</p1>
+              <p2>124.94464</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+              <isDisposed>false</isDisposed>
+              <command reference="../../.."/>
+              <isSelected>true</isSelected>
+              <length>4</length>
+              <index>17</index>
+              <preset>1800.0</preset>
+              <p0>-95.32261</p0>
+              <p1>12.4</p1>
+              <p2>127.40248</p2>
+              <p3>45.0</p3>
+              <p4>0.0</p4>
+              <p5>0.0</p5>
+              <p6>0.0</p6>
+              <p7>0.0</p7>
+              <p8>0.0</p8>
+              <p9>0.0</p9>
+              <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>0.0</preset>
+          <commandName>simpleScan</commandName>
+          <numberOfMotor>4</numberOfMotor>
+          <column0>true</column0>
+          <column1>false</column1>
+          <column2>true</column2>
+          <column3>false</column3>
+          <column4>true</column4>
+          <column5>true</column5>
+          <column6>true</column6>
+          <column7>true</column7>
+          <column8>true</column8>
+          <column9>true</column9>
+          <pNames reference="../parameters/au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+        </au.gov.ansto.bragg.nbi.ui.core.commands.SimpleTableScanCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <au.gov.ansto.bragg.nbi.ui.core.commands.SimpleTableScanCommand>
+                <parameters>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>1</index>
+                    <preset>1800.0</preset>
+                    <p0>-98.78326</p0>
+                    <p1>12.4</p1>
+                    <p2>107.70315</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames>
+                      <string>sx</string>
+                      <string>sy</string>
+                      <string>sz</string>
+                      <string>som</string>
+                      <string>time</string>
+                    </pNames>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>2</index>
+                    <preset>1800.0</preset>
+                    <p0>-98.98089</p0>
+                    <p1>12.4</p1>
+                    <p2>107.73419</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>3</index>
+                    <preset>1800.0</preset>
+                    <p0>-99.17785</p0>
+                    <p1>12.4</p1>
+                    <p2>107.76892</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>4</index>
+                    <preset>1800.0</preset>
+                    <p0>-99.37481</p0>
+                    <p1>12.4</p1>
+                    <p2>107.80365</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>5</index>
+                    <preset>1800.0</preset>
+                    <p0>-99.57177</p0>
+                    <p1>12.4</p1>
+                    <p2>107.83838</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>6</index>
+                    <preset>1800.0</preset>
+                    <p0>-99.86721</p0>
+                    <p1>12.4</p1>
+                    <p2>107.89047</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>7</index>
+                    <preset>1800.0</preset>
+                    <p0>-100.11341</p0>
+                    <p1>12.4</p1>
+                    <p2>107.93388</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>8</index>
+                    <preset>1800.0</preset>
+                    <p0>-100.35962</p0>
+                    <p1>12.4</p1>
+                    <p2>107.977295</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>9</index>
+                    <preset>1800.0</preset>
+                    <p0>-100.60582</p0>
+                    <p1>12.4</p1>
+                    <p2>108.020706</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>10</index>
+                    <preset>1800.0</preset>
+                    <p0>-100.85202</p0>
+                    <p1>12.4</p1>
+                    <p2>108.06412</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>11</index>
+                    <preset>1800.0</preset>
+                    <p0>-101.34442</p0>
+                    <p1>12.4</p1>
+                    <p2>108.15095</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>12</index>
+                    <preset>1800.0</preset>
+                    <p0>-101.83683</p0>
+                    <p1>12.4</p1>
+                    <p2>108.23777</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>13</index>
+                    <preset>1800.0</preset>
+                    <p0>-102.32923</p0>
+                    <p1>12.4</p1>
+                    <p2>108.32459</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>14</index>
+                    <preset>1800.0</preset>
+                    <p0>-103.31404</p0>
+                    <p1>12.4</p1>
+                    <p2>108.49824</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>15</index>
+                    <preset>1800.0</preset>
+                    <p0>-104.29884</p0>
+                    <p1>12.4</p1>
+                    <p2>108.67189</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>16</index>
+                    <preset>1800.0</preset>
+                    <p0>-105.28365</p0>
+                    <p1>12.4</p1>
+                    <p2>108.845535</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>17</index>
+                    <preset>1800.0</preset>
+                    <p0>-106.26846</p0>
+                    <p1>12.4</p1>
+                    <p2>109.01919</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                    <isDisposed>false</isDisposed>
+                    <command reference="../../.."/>
+                    <isSelected>true</isSelected>
+                    <length>4</length>
+                    <index>18</index>
+                    <preset>1800.0</preset>
+                    <p0>-107.25327</p0>
+                    <p1>12.4</p1>
+                    <p2>109.19283</p2>
+                    <p3>45.0</p3>
+                    <p4>0.0</p4>
+                    <p5>0.0</p5>
+                    <p6>0.0</p6>
+                    <p7>0.0</p7>
+                    <p8>0.0</p8>
+                    <p9>0.0</p9>
+                    <pNames reference="../../au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter>
+                </parameters>
+                <scan__mode>time</scan__mode>
+                <preset>0.0</preset>
+                <commandName>simpleScan</commandName>
+                <numberOfMotor>4</numberOfMotor>
+                <column0>true</column0>
+                <column1>false</column1>
+                <column2>true</column2>
+                <column3>false</column3>
+                <column4>true</column4>
+                <column5>true</column5>
+                <column6>true</column6>
+                <column7>true</column7>
+                <column8>true</column8>
+                <column9>true</column9>
+                <pNames reference="../parameters/au.gov.ansto.bragg.nbi.ui.core.commands.TableScanParameter/pNames"/>
+              </au.gov.ansto.bragg.nbi.ui.core.commands.SimpleTableScanCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

@@ -1,0 +1,60 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.SicsBlockTask">
+    <parameters>
+      <label>SICS Command</label>
+      <colour>DARK_GRAY</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+          <text>drive sy 42.73&#xd;
+runscan sz	121.85	127.85	22 time 5&#xd;
+drive sy 42.73&#xd;
+runscan sz	144.59	150.59	23 time 5&#xd;
+drive sy 82.73&#xd;
+runscan sz	144.59	150.59	23 time 5&#xd;
+drive sy 42.73&#xd;
+runscan sz	166.94	172.94	24 time 5&#xd;
+drive sy 82.73&#xd;
+runscan sz	166.94	172.94	24 time 5&#xd;
+drive sy 42.73&#xd;
+runscan sz	189.68	195.68	25 time 5&#xd;
+drive sy 82.73&#xd;
+runscan sz	189.68	195.68	25 time 5&#xd;
+drive sy 42.73&#xd;
+runscan sz	212.55	218.55	26 time 5&#xd;
+drive sy 82.73&#xd;
+runscan sz	212.55	218.55	26 time 5</text>
+        </org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+                <text>drive sz	101.06&#xd;
+runscan sy 117 123 31 time 10&#xd;
+drive sz	124.85&#xd;
+runscan sy 62 68 31 time 10&#xd;
+drive sz	147.59&#xd;
+runscan sy 117 123 31 time 10&#xd;
+drive sz	169.94&#xd;
+runscan sy 117 123 31 time 10&#xd;
+drive sz	192.68&#xd;
+runscan sy 117 123 31 time 10&#xd;
+drive sz	215.55&#xd;
+runscan sy 117 123 31 time 10</text>
+              </org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

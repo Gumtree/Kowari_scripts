@@ -1,0 +1,317 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.SicsBlockTask">
+    <parameters>
+      <label>SICS Command</label>
+      <colour>DARK_GRAY</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+          <method>drive</method>
+          <parameters>
+            <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+              <deviceId>sy</deviceId>
+              <target>3.6</target>
+            </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+          </parameters>
+        </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.AdvancedScanTask">
+    <parameters>
+      <label>Advanced Multi-dimensional Scan</label>
+      <colour>DARK_BLUE</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+          <parameters>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>120.79</startPosition>
+                  <finishPosition>184.429</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>118.3</startPosition>
+                  <finishPosition>54.661003</finishPosition>
+                  <stepSize>-2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>true</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>25.0</preset>
+          <commandName>scan</commandName>
+        </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.AdvancedScanTask">
+    <parameters>
+      <label>Advanced Multi-dimensional Scan</label>
+      <colour>DARK_BLUE</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+          <parameters>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>212.19</startPosition>
+                  <finishPosition>275.829</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>25.68</startPosition>
+                  <finishPosition>-37.959</finishPosition>
+                  <stepSize>-2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>true</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>25.0</preset>
+          <commandName>scan</commandName>
+        </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.AdvancedScanTask">
+    <parameters>
+      <label>Advanced Multi-dimensional Scan</label>
+      <colour>DARK_BLUE</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+          <parameters>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>303.86</startPosition>
+                  <finishPosition>367.499</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>-65.68</startPosition>
+                  <finishPosition>-129.319</finishPosition>
+                  <stepSize>-2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>true</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+            <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+              <isDisposed>false</isDisposed>
+              <parameters>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sz</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                  <isDisposed>false</isDisposed>
+                  <scanVariable>sx</scanVariable>
+                  <startPosition>NaN</startPosition>
+                  <finishPosition>NaN</finishPosition>
+                  <stepSize>2.1213</stepSize>
+                  <isLocked>false</isLocked>
+                  <parentParameter reference="../../.."/>
+                </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+              </parameters>
+              <numberOfPoints>31</numberOfPoints>
+              <doCreateFile>false</doCreateFile>
+              <currentPosition>0</currentPosition>
+            </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+          </parameters>
+          <scan__mode>time</scan__mode>
+          <preset>25.0</preset>
+          <commandName>scan</commandName>
+        </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[2]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[3]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+                <method>drive</method>
+                <parameters>
+                  <org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                    <deviceId>sy</deviceId>
+                    <target>3.16</target>
+                  </org.gumtree.gumnix.sics.batch.ui.commands.DrivableParameter>
+                </parameters>
+              </org.gumtree.gumnix.sics.batch.ui.commands.DrivableCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task[4]/dataModel"/>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+            <commands>
+              <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+                <parameters>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+                    <isDisposed>false</isDisposed>
+                    <parameters>
+                      <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                        <isDisposed>false</isDisposed>
+                        <scanVariable>sz</scanVariable>
+                        <startPosition>243.0</startPosition>
+                        <finishPosition>285.426</finishPosition>
+                        <stepSize>2.1213</stepSize>
+                        <isLocked>false</isLocked>
+                        <parentParameter reference="../../.."/>
+                      </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                      <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                        <isDisposed>false</isDisposed>
+                        <scanVariable>sx</scanVariable>
+                        <startPosition>72.84</startPosition>
+                        <finishPosition>30.413998</finishPosition>
+                        <stepSize>-2.1213</stepSize>
+                        <isLocked>false</isLocked>
+                        <parentParameter reference="../../.."/>
+                      </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                    </parameters>
+                    <numberOfPoints>21</numberOfPoints>
+                    <doCreateFile>false</doCreateFile>
+                    <currentPosition>0</currentPosition>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+                  <au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+                    <isDisposed>false</isDisposed>
+                    <parameters>
+                      <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                        <isDisposed>false</isDisposed>
+                        <scanVariable>sz</scanVariable>
+                        <startPosition>NaN</startPosition>
+                        <finishPosition>NaN</finishPosition>
+                        <stepSize>2.1213</stepSize>
+                        <isLocked>false</isLocked>
+                        <parentParameter reference="../../.."/>
+                      </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                      <au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                        <isDisposed>false</isDisposed>
+                        <scanVariable>sx</scanVariable>
+                        <startPosition>NaN</startPosition>
+                        <finishPosition>NaN</finishPosition>
+                        <stepSize>2.1213</stepSize>
+                        <isLocked>false</isLocked>
+                        <parentParameter reference="../../.."/>
+                      </au.gov.ansto.bragg.nbi.ui.core.commands.SingleADParameter>
+                    </parameters>
+                    <numberOfPoints>21</numberOfPoints>
+                    <doCreateFile>false</doCreateFile>
+                    <currentPosition>0</currentPosition>
+                  </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedParameter>
+                </parameters>
+                <scan__mode>time</scan__mode>
+                <preset>25.0</preset>
+                <commandName>scan</commandName>
+              </au.gov.ansto.bragg.nbi.ui.core.commands.AdvancedScanCommand>
+            </commands>
+          </org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>

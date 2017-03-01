@@ -1,0 +1,44 @@
+<workflow>
+  <task classname="au.gov.ansto.bragg.nbi.ui.tasks.SicsBlockTask">
+    <parameters>
+      <label>SICS Command</label>
+      <colour>DARK_GRAY</colour>
+    </parameters>
+    <dataModel class="org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock">
+      <commands>
+        <org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+          <text>drive x -5&#xd;
+drive sy 110.58&#xd;
+runscan sz 152 142 21 time 5&#xd;
+drive sz 163.46&#xd;
+runscan sx -6 1 21 time 5&#xd;
+drive x -5&#xd;
+drive sy 90.58&#xd;
+runscan sz 152 142 21 time 5&#xd;
+drive sz 163.46&#xd;
+runscan sx -6 1 21 time 5&#xd;
+drive x -5&#xd;
+drive sy 110.31&#xd;
+runscan sz 105 115 21 time 5&#xd;
+drive sz 125.49&#xd;
+runscan sx -6 1 21 time 5&#xd;
+drive x -5&#xd;
+drive sy 90.31&#xd;
+runscan sz 105 115 21 time 5&#xd;
+drive sz 125.49&#xd;
+runscan sx -6 1 21 time 5</text>
+        </org.gumtree.gumnix.sics.batch.ui.commands.ScriptCommand>
+      </commands>
+    </dataModel>
+  </task>
+  <context>
+    <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+      <org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+        <blocks>
+          <org.gumtree.gumnix.sics.batch.ui.model.SicsCommandBlock reference="../../../../../task/dataModel"/>
+        </blocks>
+      </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+    </org.gumtree.gumnix.sics.batch.ui.model.SicsBatchScript>
+  </context>
+  <parameters/>
+</workflow>
