@@ -77,7 +77,8 @@ if System.getProperty('gumtree.runtime.configEnv.mode') == 'experiment' :
             return
         global __DATASOURCE__
         try:
-            __DATASOURCE__.addDataset(__file_to_add__, True)
+#            __DATASOURCE__.addDataset(__file_to_add__, True)
+            pass
         except:
             print 'error in adding dataset: ' + __file_to_add__
         
@@ -337,3 +338,4 @@ else:
     pass
     
 load_script('reduction.py')
+sys.stderr.write('Important for logging. PLEASE DO NOT CLOSE ME!\n')
