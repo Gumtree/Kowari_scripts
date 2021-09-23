@@ -10,6 +10,39 @@ LOWER_LIM = 0.001
 DEGREE_RAD_COEFFICIENT = 180 / math.pi
 DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE = 1078.0
 
+def fix_detector_dimension(ds):
+    old_y = ds.axes[1]
+    if old_y.units != 'mm':
+        fix_y = True
+    else:
+        fix_y = False
+    old_x = ds.axes[2]
+    if old_x.units != 'mm':
+        fix_x = True
+    else:
+        fix_x = False
+    if fix_y or fix_x:
+        print('fix detector dimension')
+        if fix_y:
+            dh = ds.detector_height
+            bins = ds.shape[1]
+            y = simpledata.arange(dh / 2. - dh, dh - dh/2. + 0.001, float(dh)/bins, float)
+            y.units = 'mm'
+        else:
+            y = old_y
+        if fix_x:
+            dw = ds.detector_width
+            bins = ds.shape[2]
+            x = simpledata.arange(dw / 2. - dw, dw - dw/2. + 0.001, float(dw)/bins, float)
+            x.units = 'mm'
+        else:
+            x = old_x
+        ds.axes = [ds.axes[0], y, x]
+    else:
+        print('no need to fix dimension')
+    return ds
+        
+    
 def make_eff_map(df, path):
     global SKIP_LEFT
     global SKIP_RIGHT

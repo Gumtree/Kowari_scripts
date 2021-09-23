@@ -1,6 +1,8 @@
 program_name=$entry/program_name
 data=$entry/data
 detector=$entry/instrument/detector
+detector_height=$entry/instrument/detector/active_height
+detector_width=$entry/instrument/detector/active_width
 thetaVector=$entry/data/polar_angle
 monitor_data=$entry/monitor/data
 distance=$entry/monitor/distance

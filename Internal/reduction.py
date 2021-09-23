@@ -326,6 +326,7 @@ def reduce():
     title = DS.title
     if DS.ndim == 4 :
         DS = DS.get_reduced(1)
+    DS = lib.fix_detector_dimension(DS)
     
     prog_bar.selection = 1
     if eff_corr_enabled.value and eff_map.value != None \
