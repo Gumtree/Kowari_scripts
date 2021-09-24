@@ -32,6 +32,7 @@ som=$entry/sample/som
 hy=$entry/sample/hy
 hx=$entry/sample/hx
 hsom=$entry/sample/hsom
+hom=$entry/sample/hom
 mphi=$entry/instrument/crystal/mphi
 mchi=$entry/instrument/crystal/mchi
 mx=$entry/instrument/crystal/mx
