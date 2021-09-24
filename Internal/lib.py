@@ -1,5 +1,5 @@
 import math
-from gumpy.nexus import array, dataset
+from gumpy.nexus import array, dataset, simpledata
 from au.gov.ansto.bragg.datastructures.util import AxisRecord
 from au.gov.ansto.bragg.kowari.dra.core import GeometryCorrection
 SKIP_LEFT = 5
