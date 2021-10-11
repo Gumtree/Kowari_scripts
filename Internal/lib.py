@@ -12,12 +12,12 @@ DEFAULT_SAMPLE_TO_DETECTOR_DISTANCE = 1078.0
 
 def fix_detector_dimension(ds):
     old_y = ds.axes[1]
-    if old_y.units != 'mm':
+    if len(old_y) != 422:
         fix_y = True
     else:
         fix_y = False
     old_x = ds.axes[2]
-    if old_x.units != 'mm':
+    if len(old_x) != 422:
         fix_x = True
     else:
         fix_x = False
