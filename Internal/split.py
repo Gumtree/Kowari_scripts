@@ -1,31 +1,70 @@
 # Script control setup area
 # script info
-__script__.title = '<Script Template>'
-__script__.version = '1.0'
+__script__.title = 'Split large HDF file'
+__script__.version = '2.0'
 
 # Use below example to create parameters.
 # The type can be string, int, float, bool, file.
-n_frame = Par('int', 30)
+n_frame = Par('int', 100)
+n_frame.title = 'Number of frames per file'
 def arg1_changed():
     print 'arg1=' + str(arg1_name.value)
 
 # Use below example to create a button
-act1 = Act('split()', 'split') 
-def split():
+act1 = Act('split_all()', 'split all') 
+#def split():
+#    li = __DATASOURCE__.getSelectedDatasets()
+#    for item in li:
+#        df.datasets.clear()
+#        ds = df[str(item.location)]
+#        start = 0
+#        while start < ds.shape[0]:
+#            stop = start + n_frame.value
+#            if stop > ds.shape[0]:
+#                stop = ds.shape[0]
+#            di = ds[start:stop]
+#            di.save_copy(os.path.dirname(ds.location) + '/KWR' \
+#                         + ('%07d' % int(ds.id)) + '_' + str(start) \
+#                         + '_' + str(stop - 1) + '.hdf')
+#            start = stop
+    
+def split_all():
+    folder = selectSaveFolder()
+    if folder == None:
+        return
     li = __DATASOURCE__.getSelectedDatasets()
     for item in li:
-        df.datasets.clear()
-        ds = df[str(item.location)]
         start = 0
-        while start < ds.shape[0]:
+        while True:
+            df.datasets.clear()
+            ds = df[str(item.location)]
+            if start >= ds.shape[0]:
+                break
             stop = start + n_frame.value
             if stop > ds.shape[0]:
                 stop = ds.shape[0]
-            di = ds[start:stop]
-            di.save_copy(os.path.dirname(ds.location) + '/KWR' \
+            flen = ds.shape[0]
+            nxRoot = ds.__iNXroot__
+            split_group(nxRoot, flen, start, stop)
+            ds.save_copy(folder + '/KWR' \
                          + ('%07d' % int(ds.id)) + '_' + str(start) \
                          + '_' + str(stop - 1) + '.hdf')
             start = stop
+    
+def split_group(ncGroup, full_length, start, stop):
+    for subGroup in ncGroup.getGroupList():
+        split_group(subGroup, full_length, start, stop)
+    for ncDataItem in ncGroup.getDataItemList():
+        dataitem = SimpleData(ncDataItem)
+        if len(dataitem) == full_length:
+            newItem = dataitem[start : stop]
+        elif len(dataitem) == full_length + 1:
+            newItem = dataitem[start : stop + 1]
+        else:
+            continue
+        newNcItem = newItem.__iDataItem__
+        newNcItem.setShortName(ncDataItem.getShortName())
+        ncGroup.addDataItem(newNcItem)
     
 # Use below example to create a new Plot
 # Plot4 = Plot(title = 'new plot')
