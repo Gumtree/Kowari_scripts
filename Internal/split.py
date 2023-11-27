@@ -46,10 +46,13 @@ def split_all():
             flen = ds.shape[0]
             nxRoot = ds.__iNXroot__
             split_group(nxRoot, flen, start, stop)
-            ds.save_copy(folder + '/KWR' \
+            fname = folder + '/KWR' \
                          + ('%07d' % int(ds.id)) + '_' + str(start) \
-                         + '_' + str(stop - 1) + '.hdf')
+                         + '_' + str(stop - 1) + '.hdf'
+            print 'creating ' + fname
+            ds.save_copy(fname)
             start = stop
+            print 'Done'
     
 def split_group(ncGroup, full_length, start, stop):
     for subGroup in ncGroup.getGroupList():
