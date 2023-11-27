@@ -52,7 +52,7 @@ def split_all():
             print 'creating ' + fname
             ds.save_copy(fname)
             start = stop
-            print 'Done'
+        print 'Done with file ' + str(item.location)
     
 def split_group(ncGroup, full_length, start, stop):
     for subGroup in ncGroup.getGroupList():
